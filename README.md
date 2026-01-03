@@ -111,7 +111,8 @@ proj/
 
 1. **Clone the repository** (if applicable) or navigate to the project directory:
    ```bash
-   cd proj
+   git clone https://github.com/aakankshapotabatti/fake-job-detector.git
+   cd fake-job-detector
    ```
 
 2. **Create a virtual environment**:
@@ -120,13 +121,8 @@ proj/
    ```
 
 3. **Activate the virtual environment**:
-   - On Windows:
      ```bash
      venv\Scripts\activate
-     ```
-   - On macOS/Linux:
-     ```bash
-     source venv/bin/activate
      ```
 
 4. **Install Python dependencies**:
@@ -344,5 +340,6 @@ The system includes comprehensive data preprocessing:
 ---
 
 **Built with ❤️ using FastAPI, React, and TensorFlow**
+
 
 
