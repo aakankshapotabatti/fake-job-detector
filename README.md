@@ -341,20 +341,8 @@ The system includes comprehensive data preprocessing:
 - Verify JWT token is included in request headers
 - Check token expiration
 - Ensure correct credentials are used
-
-## 📝 License
-
-This project is provided as-is for educational and research purposes.
-
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or issues, please open an issue in the repository.
-
 ---
 
 **Built with ❤️ using FastAPI, React, and TensorFlow**
+
 
